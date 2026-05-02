@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:elytra": 1,
+      "minecraft:dirt": 44,
+      "minecraft:firework_rocket": 30
+    },
+    "minecraft:mined": {
+      "minecraft:oak_leaves": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:wheat_seeds": 2
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 8732,
+      "minecraft:walk_one_cm": 8502,
+      "minecraft:leave_game": 1,
+      "minecraft:damage_taken": 10,
+      "minecraft:play_time": 8732,
+      "minecraft:jump": 49,
+      "minecraft:time_since_death": 8732,
+      "minecraft:aviate_one_cm": 114445,
+      "minecraft:sprint_one_cm": 1720,
+      "minecraft:fall_one_cm": 675,
+      "minecraft:total_world_time": 8732,
+      "minecraft:fly_one_cm": 10428,
+      "minecraft:crouch_one_cm": 870,
+      "minecraft:sneak_time": 191
+    }
+  },
+  "DataVersion": 4671
+}
